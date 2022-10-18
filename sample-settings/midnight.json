@@ -1,0 +1,20 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-midnight.svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#000000",
+    "strongColor": "#gold",
+    "weakColor": "191970",
+    "radarColor": "#gold",
+    "growingAnimation": true,
+    "saturation": "50%",
+    "contribColors": [
+      "#7f8e62",
+      "#fe6b4a",
+      "#ffc40c",
+      "#b885a9",
+      "7ed4e6"
+    ]
+  }
+]
