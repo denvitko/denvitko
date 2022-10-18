@@ -1,6 +1,22 @@
-### Hi there 👋
+<img align = "right" src="./profile-3d-contrib/profile-green-animate.svg " width="500">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg " width="600">
+# Hi, I'm Denisa 👋
+
+```python
+class Me:
+  def __init__(self, name):
+    self.name = name
+    self.study = "high school"
+    self.code = [ "C++", "Python", "Latex", "..." ],
+    loves = { 
+              "├ STEM": ["Physics", "Quantum", "Math"],
+              "├ langs": ["hi", "hallo", "hæ", "hola"], 
+              "├ travelling": True,
+              "├ reading": True,
+              "╰─λ": and_more()
+            }
+me = Me("Denisa")
+```
 
 <!--
 **DenVitko/DenVitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
