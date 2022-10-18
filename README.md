@@ -8,7 +8,7 @@ class Me:
     self.name = name
     self.study = "high school"
     self.code = [ "C++", "Python", "Latex", "..." ],
-    loves = { 
+    self.loves = { 
               "├ STEM": ["Physics", "Quantum", "Math"],
               "├ langs": ["hi", "hallo", "hæ", "hola"], 
               "├ travelling": True,
