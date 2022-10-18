@@ -1,6 +1,6 @@
-<img align = "right" src="./profile-3d-contrib/profile-night-rainbow.svg " width="400">
-
 **Hi, I'm Denisa** 👋
+
+<img align = "right" src="./profile-3d-contrib/profile-night-rainbow.svg " width="400">
 
 ```python
 class Me:
