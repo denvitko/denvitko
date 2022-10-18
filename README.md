@@ -1,6 +1,6 @@
 <img align = "right" src="./profile-3d-contrib/profile-green-animate.svg " width="400">
 
-# Hi, I'm Denisa 👋
+**Hi, I'm Denisa** 👋
 
 ```python
 class Me:
