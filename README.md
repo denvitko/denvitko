@@ -9,12 +9,12 @@ class Me:
     self.study = "high school"
     self.code = [ "C++", "Python", "Latex", "..." ],
     self.loves = { 
-              "├ STEM": ["Physics", "Quantum", "Math"],
-              "├ langs": ["hi", "hallo", "hæ", "hola"], 
-              "├ travelling": True,
-              "├ reading": True,
-              "╰─λ": and_more()
-            }
+      "├ STEM": ["Physics", "Quantum", "Math"],
+      "├ langs": ["hi", "hallo", "hæ", "hola"], 
+      "├ travelling": True,
+      "├ reading": True,
+      "╰─λ": and_more()
+    }
 me = Me("Denisa")
 ```
 
