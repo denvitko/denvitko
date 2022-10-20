@@ -1,27 +1,22 @@
 **Hi, I'm Denisa** 👋
 
-<img align = "right" src="./profile-3d-contrib/profile-night-rainbow.svg " width="400">
+<a href="./stats.md"><img align="right" src = "https://github-readme-streak-stats.herokuapp.com?user=denvitko&theme=dark&hide_border=true" width = 400></a>
 
 ```python
 class Me:
-  def __init__(self, name):
-    self.name = name
-    self.study = "high school"
-    self.code = [ "C++", "Python", "Latex", "..." ],
-    self.loves = { 
-      "├ STEM": ["Physics", "Quantum", "Math"],
-      "├ langs": ["hi", "hallo", "hæ", "hola"], 
-      "├ travelling": True,
-      "├ reading": True,
-      "╰─λ": and_more()
+  def __init__(self):
+    self.subtle = "science enthusiast"
+    self.education = {
+      "├ ghosting at": "High School",
+      "╰-λ major": "information technology"
     }
-me = Me("Denisa")
+    self.code = [ "C++", "Python", "Latex", "..." ]
+    self.interested = "S" + "T" + "E" + "M"
+    self.hobbies = [
+      "study", "travel", "langs", and_more()
+    ]
+my_self = Me()
 ```
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=denvitko&show_icons=true&theme=bear&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=denvitko&theme=dark&hide_border=true" width = 400>
-</p>
 
 <!--
 **DenVitko/DenVitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
