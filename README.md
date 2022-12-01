@@ -5,10 +5,10 @@
 ```python
 class Me:
   def __init__(self):
-    self.subtle = "science enthusiast"
+    self.describe = "science enthusiast"
     self.education = {
       "├ ghosting at": "High School",
-      "╰-λ major": "information technology"
+      "╰-λ major": "Information Technology"
     }
     self.code = [ "C++", "Python", "Latex", "..." ]
     self.interested = "S" + "T" + "E" + "M"
