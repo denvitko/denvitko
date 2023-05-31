@@ -10,8 +10,8 @@ class Me:
       "├ ghosting at": "High School",
       "╰-λ major": "Information Technology"
     }
-    self.code = [ "C++", "Python", "Latex", "..." ]
-    self.interested = "S" + "T" + "E" + "M"
+    self.code = [ "Python", "Latex", "C++", "..." ]
+    self.interested = "S" + "T" + "E" + "A" + "M"
     self.hobbies = [
       "study", "travel", "langs", and_more()
     ]
