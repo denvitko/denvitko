@@ -7,8 +7,7 @@ class Me:
   def __init__(self):
     self.describe = "science enthusiast"
     self.education = {
-      "├ ghosting at": "High School",
-      "╰-λ major": "Information Technology"
+      "╰-λ ghosting in": "The Quantum Community",
     }
     self.code = [ "Python", "Latex", "C++", "..." ]
     self.interested = "S" + "T" + "E" + "A" + "M"
